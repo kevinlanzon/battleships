@@ -40,4 +40,7 @@ class Ship
     hit_points == 0
   end
 
+  def has_been_hit?(board)
+
+  end
 end

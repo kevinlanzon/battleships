@@ -11,11 +11,11 @@ describe Board do
 
   it "should be able to accept a ship" do
     board.place(ship)
-    expect(board.grid['a1']).to eq("ship ")
+    expect(board.grid['a1']).to eq('ship ')
   end
 
   it "should be able to place a marker" do
-    board.take_shot    
+    board.take_shot
     expect(board.grid['a1']).to eq("miss ")
   end
 

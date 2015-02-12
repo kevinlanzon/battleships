@@ -1,7 +1,7 @@
 
 class Board
 
-  attr_reader :grid, :coordinates
+  attr_reader :grid, :coordinates, :ship
 
   def initialize
    @grid = Hash.new
@@ -10,7 +10,7 @@ class Board
         @grid["#{letter}#{number}"] = 'water '
       print @grid["#{letter}#{number}"]
       end
-      puts 
+      puts
     end
   end
 
@@ -18,7 +18,7 @@ class Board
     @coordinates = gets.chomp
   end
 
-  def place(ship) 
+  def place(ship)
     get_coordinates
     ship.size.times { grid[coordinates] = 'ship '}
   end
