@@ -1,4 +1,4 @@
-BattleShip
+BattleShips
 =======
 
 [Makers Academy](http://www.makersacademy.com/) week two challenge. 
