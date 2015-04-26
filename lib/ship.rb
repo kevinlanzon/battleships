@@ -41,6 +41,5 @@ class Ship
   end
 
   def has_been_hit?(board)
-
   end
 end

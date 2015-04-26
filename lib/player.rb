@@ -1,4 +1,3 @@
-
 class Player
 
   def shoot(board)

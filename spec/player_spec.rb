@@ -15,5 +15,4 @@ describe Player do
     expect(board).to receive(:place).with(ship)
     player.place_ship(board, ship)
   end
-  
 end

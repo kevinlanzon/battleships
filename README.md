@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/kevinlanzon/battleships/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/battleships)
 BattleShips
 =======
 

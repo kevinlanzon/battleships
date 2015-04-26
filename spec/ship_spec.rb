@@ -21,5 +21,4 @@ describe Ship do
     2.times { ship.hit }
     expect(ship).to be_sunk
   end
- 
 end
