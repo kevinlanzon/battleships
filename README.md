@@ -1,6 +1,7 @@
 [![Code Climate](https://codeclimate.com/github/kevinlanzon/battleships/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/battleships)
 BattleShips
 =======
+🚧 INCOMPLETE 🚧
 
 [Makers Academy](http://www.makersacademy.com/) week 2 challenge - Pair programmed with [Tommaso](https://github.com/tommasobratto).
 
