@@ -3,7 +3,7 @@ BattleShips
 =======
 🚧 INCOMPLETE 🚧
 
-[Makers Academy](http://www.makersacademy.com/) week 2 challenge - Pair programmed with [Tommaso](https://github.com/tommasobratto).
+[Makers Academy](http://www.makersacademy.com/) week 2 challenge - Paired with [Tommaso](https://github.com/tommasobratto).
 
 We were tasked with creating a model for a battleship game using TDD. We pair programmed on this project to create the back-end logic for a two player game, building on the ruby, RSpec and SOLID principles from week one.
 
